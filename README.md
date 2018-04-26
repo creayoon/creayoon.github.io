@@ -1,4 +1,5 @@
-# hello?
+# Creayoon's dev blog
+### How to serve
 `jekyll serve --baseurl '' --watch`
 
 <!-- # jekyll-theme-prologue 
